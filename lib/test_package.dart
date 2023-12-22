@@ -12,7 +12,7 @@ class ImageWithName extends StatelessWidget {
     return Column(
       children: [
         Image.network(
-            'https://media.geeksforgeeks.org/wp-content/uploads/20201206213839/localhost57606-437x660.png'),
+            'https://w7.pngwing.com/pngs/168/443/png-transparent-flutter-logo-flutter-software-logo-social-media-logo-logo-technology-logo-3d-icon.png'),
         Text('Flutter ')
       ],
     );
